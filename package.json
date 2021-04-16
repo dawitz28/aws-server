@@ -1,0 +1,22 @@
+{
+  "name": "aws-server",
+  "version": "1.0.0",
+  "description": "AWS Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawitz28/aws-server.git"
+  },
+  "author": "Dawit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dawitz28/aws-server/issues"
+  },
+  "homepage": "https://github.com/dawitz28/aws-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
